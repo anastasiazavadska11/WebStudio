@@ -67,6 +67,29 @@ header {
 .header_contacts_mail {
   /* margin-left: 344px; */
   margin-right: 50px;
+  color: #757575;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.28px;
+}
+
+.header_contacts_mail:hover {
+  color: #2196f3;
+}
+
+.header_contacts_number {
+  color: #757575;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.28px;
+}
+
+.header_contacts_number:hover {
+  color: #2196f3;
 }
 
 .hero {
